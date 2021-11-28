@@ -14,7 +14,7 @@
 
 ## Introduction
 
-With the advancement of technology, autonomous driving-oriented future mobility is becoming a reality, not a distant future. Accordingly, social interest in how future mobility technology can be applied to the transportation disadvantaged is also increasing. In order to move forward to a better future away from the reality where everyone cannot enjoy the advantages of future mobility, various forms of personal mobility and new modes of transportation such as PBV (Purpose Built Vehicle) that can be used by everyone are needed!
+With the advancement of technology, ***autonomous driving-oriented future mobility*** is becoming a reality, not a distant future. Accordingly, social interest in how future mobility technology can be applied to the transportation disadvantaged is also increasing. In order to move forward to a better future away from the reality where everyone cannot enjoy the advantages of future mobility, various forms of personal mobility and new modes of transportation such as PBV (Purpose Built Vehicle) that can be used by everyone are needed!
 
 <br/>
 
@@ -29,6 +29,13 @@ Personal mobility development uses **AI object recognition and tracking technolo
 - Implementation of object recognition technology that is not limited by special devices
 
 ## Software Design
+
+The solution OPTRACKER we propose has ***four main functions***
+
+
+
+
+
 
 <img width="70%" src="https://user-images.githubusercontent.com/76834485/143730106-6bb5223e-7c77-476f-9d5f-ee3abcb4cedf.gif"/>
 
