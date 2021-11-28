@@ -1,4 +1,4 @@
-# OPTRACKER♿
+# OPTRACKER ♿
 
 ### _Personal mobility for the elderly through AI object recognition and tracking and motor drive linkage_
 
