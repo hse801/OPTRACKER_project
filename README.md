@@ -47,10 +47,18 @@ Personal mobility development uses **AI object recognition and tracking technolo
 
 The solution OPTRACKER we propose has ***four main functions***
 <br/>
-:star: Recognize a specific object and track the recognized object in real time. It drives the motor based on the coordinates of the recognized object and operates the manufactured hardware.
+***Recognize a specific object and track the recognized object in real time.*** It drives the ***motor based on the coordinates of the recognized object and operates the manufactured hardware.***
 
-### Object Detection
-We use the [yolov5](https://github.com/ultralytics/yolov5) algorithm to detect objects in real time. In order to define the object to be tracked as one person, an algorithm was used to track only the object after first registering the object with the camera.
+### Object Detection & Tracking
+We use the [yolov5](https://github.com/ultralytics/yolov5) algorithm to detect objects in real time, and track the detected objects using the [deepsort](https://github.com/nwojke/deep_sort) algorithm. At this time, in order to define the object to be tracked as one person, an algorithm was used to ***track only the object after first registering the object with the camera.***
+<br/>
+
+
+
+### Depth Estimation
+In order to keep track of the object at a certain distance, the distance to the object was measured. For distance measurement, we used the [monodepth2](https://github.com/nianticlabs/monodepth2) algorithm. In monodepth2, the depth of an image is estimated in real time through a single image. By estimating depth from a single image, we were able to reduce errors in the calibration process and reduce costs. From the estimated depth information, the object's depth information was extracted based on the object's coordinate values obtained from yolo. ***To match the estimated depth information with the actual absolute distance, we measured the distance and depth information at different settings to obtain a correlation between the two.***   
+You can check the measurement results in the graph below.
+
 
 
 
