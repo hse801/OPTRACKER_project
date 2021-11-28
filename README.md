@@ -10,6 +10,12 @@
   <img width="30%" src="https://user-images.githubusercontent.com/76834485/143730438-1c76d6cc-87fa-431e-ae18-54aa6e8a1354.jpg"/>
 </p>
 
+**Prototype in action video**
+
+<img width="70%" src="https://user-images.githubusercontent.com/76834485/143730106-6bb5223e-7c77-476f-9d5f-ee3abcb4cedf.gif"/>
+
+<img width="70%" src="https://user-images.githubusercontent.com/76834485/143730157-0ec468fb-d2e1-48fe-844b-4f2c8d872bbc.gif"/>
+
 <br/>
 
 ## Introduction
@@ -32,14 +38,7 @@ Personal mobility development uses **AI object recognition and tracking technolo
 
 The solution OPTRACKER we propose has ***four main functions***
 
-<br/>
-
 ### Object Detection
+we [yolov5](https://github.com/ultralytics/yolov5)
 
 
-
-
-<img width="70%" src="https://user-images.githubusercontent.com/76834485/143730106-6bb5223e-7c77-476f-9d5f-ee3abcb4cedf.gif"/>
-
-
-<img width="70%" src="https://user-images.githubusercontent.com/76834485/143730157-0ec468fb-d2e1-48fe-844b-4f2c8d872bbc.gif"/>
