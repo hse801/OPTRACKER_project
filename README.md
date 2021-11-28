@@ -2,9 +2,8 @@
 
 ### _Personal mobility for the elderly through AI object recognition and tracking and motor drive linkage_
 
-<center>
-  Photographs of prototypes
-</center>  
+
+#### ***Photographs of prototypes***
 
 <p align="center">
   <img width="30%" src="https://user-images.githubusercontent.com/76834485/143730232-b5bf2d1c-9228-44b2-82cc-51c871d5ced6.jpg"/>
