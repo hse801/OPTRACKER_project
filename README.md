@@ -83,6 +83,8 @@ It runs while maintaining a certain distance and stops when the object stops and
 By linking the user's coordinate value with DC motor driving, OPTRACKER only followed the object in the direction the object moves. The direction of the motor was determined by handing over the position of the central pixel value in the object box detected by yolo to Arduino. Therefore, the op tracker can go straight, right, and left and at this time, the motor was driven by connecting a motor driver to Arduino.
 
 In addition, the distance value between OPTRACKER and the user measured by monodepth2 was handed over to arduino to maintain a certain distance from the user. To develop using these algorithms, Jetson Xavier was used, which is an artificial intelligence (AI) board specialized in video computation, including detection of certain objects and tracking of movements.
+<br/>
+***Pass the value to arduino using Pyserial***
 
 
       ARD = serial.Serial('/dev/ttyACM0', 9600)
