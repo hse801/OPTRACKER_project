@@ -135,7 +135,7 @@ You can implement all of these things through webcam in real time with that code
 ## Contributors
 
 
-|박지은||오지영|이다인|한지은|황시은|
+|박지은|오지영|이다인|한지은|황시은|
 |------|---|---|---|---|
-||ㅇㅇ|ㅇㅇ|ㅇ|ㅇ|
+|https://avatars.githubusercontent.com/u/94394943?v=4|ㅇㅇ|ㅇㅇ|ㅇ|ㅇ|
 
