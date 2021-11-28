@@ -2,6 +2,8 @@
 
 ### _Personal mobility for the elderly through AI object recognition and tracking and motor drive linkage_
 
+ai Personal mobility for the elderly and the weak through object recognition and tracking and motor-driven linkage (optimal+tracker)
+
 
 #### ***Photographs of prototypes***
 
@@ -20,17 +22,9 @@
 
 ## Contents
 [Ⅰ.Introduction](#Introduction)
-
-
 [Ⅱ.Design Objective](#Design-Objective)
-
-
 [Ⅲ.Sortware Design](#Software-Design)
-
-
 [Ⅳ.Hardware Design](#Hardware-Design)
-
-
 [Ⅴ.Conclusion](#Conclusion)
 
 ## Introduction
@@ -52,6 +46,7 @@ Personal mobility development uses **AI object recognition and tracking technolo
 ## Software Design
 
 The solution OPTRACKER we propose has ***four main functions***
+-> Recognize a specific object and track the recognized object in real time. It drives the motor based on the coordinates of the recognized object and operates the manufactured hardware.
 
 ### Object Detection
 we [yolov5](https://github.com/ultralytics/yolov5)
