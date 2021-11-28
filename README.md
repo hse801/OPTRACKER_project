@@ -61,6 +61,10 @@ We use the [yolov5](https://github.com/ultralytics/yolov5) algorithm to detect o
 In order to keep track of the object at a certain distance, the distance to the object was measured. For distance measurement, we used the [monodepth2](https://github.com/nianticlabs/monodepth2) algorithm. In monodepth2, the depth of an image is estimated in real time through a single image. By estimating depth from a single image, we were able to reduce errors in the calibration process and reduce costs. From the estimated depth information, the object's depth information was extracted based on the object's coordinate values obtained from yolo. ***To match the estimated depth information with the actual absolute distance, we measured the distance and depth information at different settings to obtain a correlation between the two.***   
 You can check the measurement results in the graph below.
 
+<p align="center">
+  <img width="60%" src="https://user-images.githubusercontent.com/76834485/143732247-cdf481c2-5327-41c0-858e-7aba9963b957.png"/>
+</p>
+
 
 
 
