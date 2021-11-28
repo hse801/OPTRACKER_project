@@ -32,7 +32,9 @@ Personal mobility development uses **AI object recognition and tracking technolo
 
 The solution OPTRACKER we propose has ***four main functions***
 
+<br/>
 
+### Object Detection
 
 
 
