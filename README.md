@@ -136,5 +136,5 @@ You can implement all of these things through webcam in real time with that code
 
 |박지은|오지영|이다인|한지은|황시은|
 |------|---|---|---|---|
-|[<img width="20%" src=https://avatars.githubusercontent.com/u/61677671?v=4>](https://github.com/y2kaicpa)|[<img width="20%" src=https://avatars.githubusercontent.com/u/61677383?v=4>](https://github.com/jiyeongee)|[<img width="20% src=https://avatars.githubusercontent.com/u/76834485?v=4>](https://github.com/manypeople-AI)|[<img width="20%" src="https://avatars.githubusercontent.com/u/94394943?v=4"/>](https://github.com/diana9519)|[<img width="20%" src="https://avatars.githubusercontent.com/u/61612117?v=4"/>](https://github.com/hse801)|
+|[<img width="50%" src="https://avatars.githubusercontent.com/u/61677671?v=4">](https://github.com/y2kaicpa)|[<img width="50%" src="https://avatars.githubusercontent.com/u/61677383?v=4">](https://github.com/jiyeongee)|[<img width="50% src="https://avatars.githubusercontent.com/u/76834485?v=4">](https://github.com/manypeople-AI)|[<img width="50%" src="https://avatars.githubusercontent.com/u/94394943?v=4"/>](https://github.com/diana9519)|[<img width="50%" src="https://avatars.githubusercontent.com/u/61612117?v=4"/>](https://github.com/hse801)|
 
