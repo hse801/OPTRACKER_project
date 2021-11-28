@@ -62,7 +62,7 @@ In order to keep track of the object at a certain distance, the distance to the 
 You can check the measurement results in the graph below.
 
 <p align="center">
-  <img width="60%" src="https://user-images.githubusercontent.com/76834485/143732247-cdf481c2-5327-41c0-858e-7aba9963b957.png"/>
+  <img width="50%" src="https://user-images.githubusercontent.com/76834485/143732314-6dd066e2-cfe7-4226-a8f3-6b52cfb34e60.png"/>
 </p>
 
 
