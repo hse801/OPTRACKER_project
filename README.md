@@ -74,8 +74,8 @@ You can check the measurement results in the graph below.
 
 
 <p align="center">
-  <img width="60%" src="https://user-images.githubusercontent.com/76834485/143732856-c1390ae1-1b17-4f4b-a212-d122b96ec864.gif"/>
- </p>
+  <img width="70%" src="https://user-images.githubusercontent.com/76834485/143730157-0ec468fb-d2e1-48fe-844b-4f2c8d872bbc.gif"/>
+</p>
  
 It runs while maintaining a certain distance and stops when the object stops and becomes narrower than a certain distance.
 
