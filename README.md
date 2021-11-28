@@ -84,6 +84,7 @@ By linking the user's coordinate value with DC motor driving, OPTRACKER only fol
 
 In addition, the distance value between OPTRACKER and the user measured by monodepth2 was handed over to arduino to maintain a certain distance from the user. To develop using these algorithms, Jetson Xavier was used, which is an artificial intelligence (AI) board specialized in video computation, including detection of certain objects and tracking of movements.
 <br/>
+<br/>
 ***Pass the value to arduino using Pyserial***
 
 
@@ -108,6 +109,26 @@ In addition, the distance value between OPTRACKER and the user measured by monod
           
           
 
+## Conclusion
 
+There are three main differences between OPTRACKER and existing personal mobility.  
+
+***First,*** OPTRACKER automatically follows you when you register, so it is easy to control the disabled and the elderly.  
+
+***Second,*** OPTRACKER can easily register and recognize users by applying image processing technology. By using images of cameras mounted on the front in YOLO and Deep Sort algorithms, we solved the problems of existing products that users should not only have characteristics that differentiate them from others but also be accurately recognized by sensors.  
+
+***Finally,*** OPTRACKER can quickly recognize and track users.  
+
+
+OPTRACTER has very high scalability of the technology itself. It can be applied to cultural facilities, amenities, and wheelchairs outdoors as well as other domains such as shopping carts, carriers, and strollers.  
+
+
+
+You can implement all of these things through webcam in real time with that code.
+(However, if you want to drive a motor, you need to annotate the serial code and use it.)
+
+
+    python3 track.py--source 0 --yolo_weights Yolov5_DeepSort_Pytorch/yolov5/weights/yolov5s.pt --model_name mono+stereo_640x192 --img 640 --classes 0 --show-vid --save-txt --image_path assets
 
                         
+
