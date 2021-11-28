@@ -134,9 +134,5 @@ You can implement all of these things through webcam in real time with that code
 
 ## Contributors
 
-|박지은|오지영|이다인|한지은|황시은|
-|https://github.com/diana9519|---|---||
-@all-contributors add
 
-@all-contributors please add @hse801 for infrastructure, tests and code
 
