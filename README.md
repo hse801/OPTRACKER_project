@@ -2,7 +2,7 @@
 
 #### _Personal mobility for the elderly through AI object recognition and tracking and motor drive linkage_  
 
-![alt-text-1] <img width="50%" src="https://user-images.githubusercontent.com/76834485/143730232-b5bf2d1c-9228-44b2-82cc-51c871d5ced6.jpg"/> ![alt-text-2](image2.png "title-2")
+(<img width="50%" src="https://user-images.githubusercontent.com/76834485/143730232-b5bf2d1c-9228-44b2-82cc-51c871d5ced6.jpg"/>)(image2.png "title-2")
 
 
 
