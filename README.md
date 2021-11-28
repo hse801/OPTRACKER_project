@@ -133,9 +133,9 @@ You can implement all of these things through webcam in real time with that code
 
 
 ## Contributors
-
+<img src="https://avatars.githubusercontent.com/u/94394943?v=4"/>
 
 |박지은|오지영|이다인|한지은|황시은|
 |------|---|---|---|---|
-|[🔧](https://github.com/hse801)|ㅇㅇ|ㅇㅇ|ㅇ|ㅇ|
+|[🔧](https://github.com/hse801)|ㅇㅇ|ㅇㅇ|[<img src="https://avatars.githubusercontent.com/u/94394943?v=4"/>](https://github.com/diana9519)|ㅇ|
 
