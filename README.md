@@ -2,8 +2,6 @@
 
 ### _Personal mobility for the elderly through AI object recognition and tracking and motor drive linkage_
 
-ai Personal mobility for the elderly and the weak through object recognition and tracking and motor-driven linkage (optimal+tracker)
-
 
 #### ***Photographs of prototypes***
 
