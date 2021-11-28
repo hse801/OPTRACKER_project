@@ -23,7 +23,7 @@
 
 [Ⅱ.Design Objective](#Design Objective)
 
-[Ⅲ.Sortware Design](#Sortware Design)
+[Ⅲ.Sortware Design](#Software Design)
 
 [Ⅳ.Hardware Design](#Hardware Design)
 
