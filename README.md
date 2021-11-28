@@ -72,11 +72,12 @@ You can check the measurement results in the graph below.
 
 #### ***Motion video showing distance maintenance***  
 
-It runs while maintaining a certain distance and stops when the object stops and becomes narrower than a certain distance.
+
 <p align="center">
   <img width="60%" src="https://user-images.githubusercontent.com/76834485/143732856-c1390ae1-1b17-4f4b-a212-d122b96ec864.gif"/>
  </p>
-
+ 
+It runs while maintaining a certain distance and stops when the object stops and becomes narrower than a certain distance.
 
 ## Hardware Design
 
