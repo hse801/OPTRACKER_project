@@ -130,5 +130,11 @@ You can implement all of these things through webcam in real time with that code
 
     python3 track.py--source 0 --yolo_weights Yolov5_DeepSort_Pytorch/yolov5/weights/yolov5s.pt --model_name mono+stereo_640x192 --img 640 --classes 0 --show-vid --save-txt --image_path assets
 
-                        
+
+
+## Contributors
+
+|박지은|오지영|이다인|한지은|황시은|
+|https://github.com/diana9519|---|---||
+
 
