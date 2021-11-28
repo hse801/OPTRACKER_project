@@ -11,10 +11,10 @@
 </p>
 
 #### ***Prototype in action video***
-
-<img width="70%" src="https://user-images.githubusercontent.com/76834485/143730106-6bb5223e-7c77-476f-9d5f-ee3abcb4cedf.gif"/>
-
-<img width="70%" src="https://user-images.githubusercontent.com/76834485/143730157-0ec468fb-d2e1-48fe-844b-4f2c8d872bbc.gif"/>
+<p align="center">
+  <img width="70%" src="https://user-images.githubusercontent.com/76834485/143730106-6bb5223e-7c77-476f-9d5f-ee3abcb4cedf.gif"/>
+  <img width="70%" src="https://user-images.githubusercontent.com/76834485/143730157-0ec468fb-d2e1-48fe-844b-4f2c8d872bbc.gif"/>
+ </p>
 
 <br/>
 
