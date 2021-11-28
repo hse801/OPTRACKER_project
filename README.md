@@ -137,5 +137,5 @@ You can implement all of these things through webcam in real time with that code
 
 |박지은|오지영|이다인|한지은|황시은|
 |------|---|---|---|---|
-|ㅇㅇ|ㅇㅇ|ㅇㅇ|ㅇ|ㅇ|
+|[🔧](https://github.com/hse801)|ㅇㅇ|ㅇㅇ|ㅇ|ㅇ|
 
