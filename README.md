@@ -46,10 +46,12 @@ Personal mobility development uses **AI object recognition and tracking technolo
 ## Software Design
 
 The solution OPTRACKER we propose has ***four main functions***
--> Recognize a specific object and track the recognized object in real time. It drives the motor based on the coordinates of the recognized object and operates the manufactured hardware.
+<br/>
+:star: Recognize a specific object and track the recognized object in real time. It drives the motor based on the coordinates of the recognized object and operates the manufactured hardware.
 
 ### Object Detection
-we [yolov5](https://github.com/ultralytics/yolov5)
+We use the [yolov5](https://github.com/ultralytics/yolov5) algorithm to detect objects in real time. In order to define the object to be tracked as one person, an algorithm was used to track only the object after first registering the object with the camera.
+
 
 
 
