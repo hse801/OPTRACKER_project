@@ -85,6 +85,27 @@ By linking the user's coordinate value with DC motor driving, OPTRACKER only fol
 In addition, the distance value between OPTRACKER and the user measured by monodepth2 was handed over to arduino to maintain a certain distance from the user. To develop using these algorithms, Jetson Xavier was used, which is an artificial intelligence (AI) board specialized in video computation, including detection of certain objects and tracking of movements.
 
 
-     code 2 // code block 할 내용
+      ARD = serial.Serial('/dev/ttyACM0', 9600)
+      if id == id_min:
+      if center_x < 180:
+          c = "2"
+          data = c.encode('utf-8')
+          ARD.write(data)
+      if center_x > 480:
+          c = "1"
+          data = c.encode('utf-8')
+          ARD.write(data)
+      if disp_center < 2.0:
+          c = "3"
+          data = c.encode('utf-8')
+          ARD.write(data)
+      else:
+          c = "0"
+          data = c.encode('utf-8')
+          ARD.write(data)  
+          
+          
 
 
+
+                        
